@@ -6,6 +6,13 @@ A dynamic platform where hobby enthusiasts can connect, share experiences, and e
 
 https://hobbyhub-new.netlify.app/
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/95cc98a6-5325-4417-874b-4f2b50bd5e90)
+![image](https://github.com/user-attachments/assets/8b522796-01dc-417b-a917-37590044f574)
+![image](https://github.com/user-attachments/assets/d9e4e0a2-772d-479d-9eb9-d6c1687d67e2)
+
+
 
 ## ✨ Key Features
 
