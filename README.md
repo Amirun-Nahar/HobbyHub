@@ -4,7 +4,9 @@ A dynamic platform where hobby enthusiasts can connect, share experiences, and e
 
 ## 🌐 Live Site
 
-https://hobbyhub-new.netlify.app/
+Frontend: https://hobbyhub-new.netlify.app
+
+Backend: https://hobbyhub-backend-nz9t.onrender.com
 
 ## Screenshots
 
