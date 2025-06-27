@@ -4,8 +4,8 @@ A dynamic platform where hobby enthusiasts can connect, share experiences, and e
 
 ## 🌐 Live Site
 
-- **Frontend**: [HobbyHub Web App](https://hobbyhub-new.netlify.app/)
-- **Backend API**: [HobbyHub API](https://hobbyhub-backend.onrender.com)
+https://hobbyhub-new.netlify.app/
+
 
 ## ✨ Key Features
 
